@@ -17,5 +17,17 @@ A web application to classify Iris flowers based on sepal and petal measurements
 - Google Colab
 - Flask
 - Python
+- Vs code
 
+## Dependencies
+
+- Python
+- Flask
+- joblib
+- numpy
+  
+## Instructions
+Install the dependencies Flask, joblib, numpy using vs code terminal
+Then run the command python app.py
+Open the server given in the terminal
 
