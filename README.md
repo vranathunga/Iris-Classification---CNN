@@ -31,6 +31,11 @@ Install the dependencies Flask, joblib, numpy using vs code terminal
 Then run the command python app.py
 Open the server given in the terminal
 
+## Dataset
+
+The dataset for this project is taken from Keggle. The link of the dataset is mentioned below.
+https://www.kaggle.com/datasets/vikrishnan/iris-dataset
+
 ## Images
 This image shows the plot destribution of the model
 <img width="706" height="453" alt="image" src="https://github.com/user-attachments/assets/38237021-fe72-4134-afd7-1ca2a1cad304" />
