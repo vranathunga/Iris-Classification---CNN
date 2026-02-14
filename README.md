@@ -1,8 +1,11 @@
 # Iris Flower Classifier
 
-A web application to classify Iris flowers based on sepal and petal measurements using a trained SVM model with Flask.
+A web application to classify Iris flowers based on sepal and petal measurements such as Setosa, Versicolor, and Virginica using a trained CNN model with Flask.
 
 ---
+<p align="left">
+  <img src="static/setosa.jpg" width="350" title="Iris Flower">
+</p>
 
 ## Features
 
